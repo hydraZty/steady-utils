@@ -1,2 +1,2 @@
 # steady-utils
-🛠️ Utils for web developing
+WIP - 🛠️ Utils for web developing
